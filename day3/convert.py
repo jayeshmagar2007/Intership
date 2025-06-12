@@ -1,0 +1,5 @@
+num1 = input("Enter the number 1 :")
+num2 = input("Enter the number 2 :")
+num1 = int(num1)
+num2 =float(num2)
+print(num1*num2)
